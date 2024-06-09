@@ -1,0 +1,291 @@
+.main {
+    width: 980px;
+    height: 448px;
+
+    margin-left: 218px;
+}
+
+.zuo {
+    float: left;
+    width: 722px;
+    height: 439px;
+    background-color: gold;
+    margin-top: 9px;
+}
+
+.you {
+    float: right;
+    width: 250px;
+    height: 439px;
+    margin-top: 9px;
+}
+
+.zuo ul li img {
+    width: 722px;
+    height: 439px;
+}
+
+.shang {
+    width: 250px;
+    height: 160px;
+    border: 1px solid #ccc;
+
+}
+
+.zhong {
+    overflow: hidden;
+    width: 250px;
+    height: 204px;
+    border: 1px solid #ccc;
+    border-top: 0;
+}
+
+.xia img {
+    width: 100%;
+    height: 75px;
+}
+
+.nw-hd {
+    height: 30px;
+    border-bottom: 1px dotted #ccc;
+    line-height: 30px;
+    padding: 0 20px;
+
+}
+
+.nw-hd h4 {
+    float: left;
+    font-size: 14px;
+}
+
+.nw-hd a {
+    float: right;
+    font-size: 14px;
+
+}
+
+.nw-hd a::after {
+    content: '\e920';
+    font-family: 'icomoon';
+    font-size: 14px;
+    margin-left: 5px;
+
+}
+
+.nw-bd {
+    height: 129px;
+    padding: 10px 0 0 10px;
+}
+
+.nw-bd ul li {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 23px;
+}
+
+.nw-bd ul li a {
+    font-size: 14px;
+}
+
+.zhong ul {
+    width: 252px;
+}
+
+.zhong ul li {
+    float: left;
+    width: 63px;
+    height: 68px;
+
+    text-align: center;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.zhong ul li i {
+    display: inline-block;
+    width: 25px;
+    height: 24px;
+    margin-top: 13px;
+
+}
+
+
+.hf {
+    background: url(../images/icons.png) no-repeat -18px -15px;
+}
+
+.jp {
+    background: url(../images/icons.png) no-repeat -79px -18px;
+}
+
+.dyp {
+    background: url(../images/icons.png) no-repeat -143px -17px;
+}
+
+.yx {
+    background: url(../images/icons.png) no-repeat -205px -15px;
+}
+
+.cp {
+    background: url(../images/icons.png) no-repeat -15px -84px;
+}
+
+.jyk {
+    background: url(../images/icons.png) no-repeat -76px -86px;
+}
+
+.jd {
+    background: url(../images/icons.png) no-repeat -138px -84px;
+}
+
+.hcp {
+    background: url(../images/icons.png) no-repeat -203px -85px;
+}
+
+.zc {
+    background: url(../images/icons.png) no-repeat -15px -155px;
+}
+
+.lc {
+    background: url(../images/icons.png) no-repeat -78px -159px;
+}
+
+.lpk {
+    background: url(../images/icons.png) no-repeat -139px -153px;
+}
+
+.bt {
+    background: url(../images/icons.png) no-repeat -204px -159px
+}
+
+.er {
+    position: relative;
+}
+
+.er img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.tu {
+    height: 165px;
+    margin-top: 10px;
+}
+
+.tu img {
+    width: 100%;
+    height: 100%;
+}
+
+.xuan {
+    position: absolute;
+    top: 350px;
+    left: 50%;
+    margin-left: -677px;
+    width: 67px;
+    height: 352px;
+}
+
+.xuan ul li {
+    text-align: center;
+    height: 32px;
+    line-height: 32px;
+    border-bottom: 1px solid #ccc;
+}
+
+.xuan ul li:hover {
+    background-color: #c81623;
+}
+
+.xuan ul li:hover a {
+    color: #fff;
+}
+
+.yi {
+    background-color: #c81623;
+
+}
+
+.yi a {
+    color: #fff;
+}
+
+.shp {
+
+    height: 262px;
+
+    margin-top: 20px;
+}
+
+.top {
+    height: 32px;
+}
+
+.top h4 {
+    float: left;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+.top a {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.top a::after {
+    content: '\ea2e';
+    font-family: 'icomoon';
+    margin-left: 7px;
+}
+
+.bottom {
+
+    height: 230px;
+    width: 1210px;
+
+    border: 1px solid #f6f6f6;
+}
+
+.bottom ul li {
+
+    float: left;
+    width: 200px;
+    height: 230px;
+}
+
+.tup {
+    width: 200px;
+    height: 160px;
+    line-height: 160px;
+    text-align: center;
+}
+
+.tup img {
+    vertical-align: middle;
+}
+
+
+.bottom ul li p {
+    margin-left: 35px;
+}
+
+.jia {
+    font-size: 18px;
+    color: #df3033;
+    font-weight: 700;
+    margin-left: 35px;
+}
+
+.tr {
+    height: 60px;
+    border-right: 1px solid #f6f6f6;
+}
+
+.q {
+    border: 0;
+}
